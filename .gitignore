@@ -1,0 +1,11 @@
+# Ignorar archivos de datos pesados
+data/*.txt
+data/*.csv
+
+# Ignorar entorno virtual de Python
+.venv/
+__pycache__/
+
+# Archivos de configuración del IDE
+.antigravity/
+bin/
